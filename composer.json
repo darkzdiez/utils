@@ -1,0 +1,21 @@
+{
+    "name": "hard/utils",
+    "description": "Hard Utilities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hard.com.ve",
+            "email": "hardprojects@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hard\\Utils\\": "src/"
+        },
+        "files": [
+            "src/Support/helpers.php"
+        ]
+    }
+}
