@@ -78,7 +78,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 6,
                 'municipio' => 'JOSE ANTONIO PAEZ',
-                'abreviatura' => 'JP',
+                'abreviatura' => 'PA',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -89,7 +89,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 7,
                 'municipio' => 'LA TRINIDAD',
-                'abreviatura' => 'LT',
+                'abreviatura' => 'TR',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -154,8 +154,8 @@ class LocationMunicipiosTableSeeder extends Seeder
             12 => 
             array (
                 'id' => 13,
-                'municipio' => 'ARISTIDES BASTIDAS',
-                'abreviatura' => 'AB',
+                'municipio' => 'URACHICHE',
+                'abreviatura' => 'UR',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
