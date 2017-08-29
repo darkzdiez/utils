@@ -23,6 +23,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 1,
                 'municipio' => 'ARISTIDES BASTIDAS',
+                'abreviatura' => 'AB',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -33,6 +34,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 2,
                 'municipio' => 'BOLIVAR',
+                'abreviatura' => 'BO',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -43,6 +45,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 3,
                 'municipio' => 'BRUZUAL',
+                'abreviatura' => 'BR',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -53,6 +56,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 4,
                 'municipio' => 'COCOROTE',
+                'abreviatura' => 'CO',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -63,6 +67,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 5,
                 'municipio' => 'INDEPENDENCIA',
+                'abreviatura' => 'IN',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -73,6 +78,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 6,
                 'municipio' => 'JOSE ANTONIO PAEZ',
+                'abreviatura' => 'JP',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -83,6 +89,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 7,
                 'municipio' => 'LA TRINIDAD',
+                'abreviatura' => 'LT',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -93,6 +100,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 8,
                 'municipio' => 'MANUEL MONGE',
+                'abreviatura' => 'MM',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -103,6 +111,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 9,
                 'municipio' => 'NIRGUA',
+                'abreviatura' => 'NI',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -113,6 +122,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 10,
                 'municipio' => 'PEÑA',
+                'abreviatura' => 'PE',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -123,6 +133,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 11,
                 'municipio' => 'SAN FELIPE',
+                'abreviatura' => 'SF',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -133,6 +144,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 12,
                 'municipio' => 'SUCRE',
+                'abreviatura' => 'SU',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -143,6 +155,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 13,
                 'municipio' => 'ARISTIDES BASTIDAS',
+                'abreviatura' => 'AB',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
@@ -153,6 +166,7 @@ class LocationMunicipiosTableSeeder extends Seeder
             array (
                 'id' => 14,
                 'municipio' => 'VEROES',
+                'abreviatura' => 'VE',
                 'codigo_cne' => '',
                 'estado_id' => 1,
                 'created_at' => new \DateTime,
