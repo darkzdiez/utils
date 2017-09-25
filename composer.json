@@ -8,8 +8,9 @@
             "email": "hardprojects@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=5.5.9"
+    },
     "autoload": {
         "psr-4": {
             "Hard\\Utils\\": "src/"
@@ -17,5 +18,6 @@
         "files": [
             "src/Support/helpers.php"
         ]
-    }
+    },
+    "minimum-stability": "stable"
 }
