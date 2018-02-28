@@ -9,7 +9,7 @@ if (! function_exists('dconfig')) {
      */
     function dconfig()
     {
-        return Hard\utils\DConfig::class;
+        return new Hard\utils\DConfig;
     }
 }
 ?>
