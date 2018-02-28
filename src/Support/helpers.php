@@ -7,9 +7,9 @@ if (! function_exists('dconfig')) {
      * @param  string  $key_name
      * @return string
      */
-    function dconfig($asset)
+    function dconfig()
     {
-        return Hard\utils\DConfigFacade::class;
+        return Hard\utils\DConfig::class;
     }
 }
 ?>
