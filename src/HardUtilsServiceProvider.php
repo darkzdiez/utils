@@ -1,5 +1,4 @@
 <?php
-
 namespace Hard\Utils;
 
 use Illuminate\Support\ServiceProvider;
@@ -13,5 +12,6 @@ class HardUtilsServiceProvider extends ServiceProvider
 
     public function register()
     {
+        $this->app->bind('DConfig', 'Hard\utils\DConfig' );
     }
 }
