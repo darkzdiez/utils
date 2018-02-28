@@ -3,7 +3,7 @@ namespace Hard\Utils;
 
 use Gate;
 use Illuminate\Support\Facades\Log;
-use Hard\utils\Configuration;
+use Hard\Utils\Configuration;
 
 class DConfig
 {
