@@ -12,6 +12,6 @@ class HardUtilsServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->bind('DConfig', 'Hard\utils\DConfig' );
+        $this->app->bind('DConfig', 'Hard\Utils\DConfig' );
     }
 }

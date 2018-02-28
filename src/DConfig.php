@@ -1,5 +1,5 @@
 <?php
-namespace Hard\utils;
+namespace Hard\Utils;
 
 use Gate;
 use Illuminate\Support\Facades\Log;
